@@ -48,7 +48,7 @@ export default {
   padding: 15px;
 }
 .drawer{
-  background-color: antiquewhite;
+  background-color: rgba(213, 213, 213, 0.94);
   overflow-y: auto;
   height: 100%;
 }
